@@ -1,6 +1,6 @@
 # Bridge
 
-Proof of concept work for a developer hub using submodules from external repos to render a unified documentation site using the markdown files pulled from each submodule. 
+Basic proof of concept work for a developer hub using submodules from external repos to render a unified documentation site using the markdown files pulled from each submodule. 
 
 The developer hub website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
